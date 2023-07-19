@@ -42,6 +42,6 @@
     margin-left: 35%;
     margin-bottom: -10%;
 }
-:root.Cyberpunk2077 .col-6 {
+:root.cyberpunk .col-6 {
     width: 110%;
 }
