@@ -1,4 +1,4 @@
-:root.Cyberpunk2077 {
+:root.cyberpunk {
 
     --colourone: #ff2a6d;
     --colourtwo: #05d9e8;
@@ -33,11 +33,11 @@
     --link-hover-color: var(--colourthree);
     --link-color: var(--colourthree);
 }
-:root.Cyberpunk2077 .ladder-row[data-v-286006ac] {
+:root.cyberpunk .ladder-row[data-v-286006ac] {
     height: 70%;
     max-height: 70%;
 }
-:root.Cyberpunk2077 .col-6.tempInfo[data-v-260edd08] {
+:root.cyberpunk .col-6.tempInfo[data-v-260edd08] {
     margin-top: -15%;
     margin-left: 35%;
     margin-bottom: -10%;
