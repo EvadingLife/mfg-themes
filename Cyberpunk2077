@@ -19,7 +19,7 @@
     --eta-worst-color: var(--colourone);
     --text-color: var(--colourthree);
     --text-light-highlight-color: var(--colourtwo);
-    --text-dark-highlight-color: var(--colourfour);
+    --text-dark-highlight-color: var(--colourone);
     --button-color: var(--colourone);
     --button-hover-color: var(--colourthree);
     --button-hover-background-color: var(--coloursix);
