@@ -23,6 +23,7 @@
     --text-light-highlight-color: var(--main-secondary-color);
     --text-dark-highlight-color: var(--main-color);
     --ladder-text-promoted-color: var(--colourtwo);
+    --ladder-bg-promoted-color: var(--colourfour);
     --link-color: var(--main-secondary-color);
     --link-hover-color: var(--colourfour);
     --mod-color: var(--main-color);
