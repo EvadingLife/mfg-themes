@@ -7,13 +7,13 @@
     --colourfive: #01012b;
     --coloursix: #d6ff2a;
     
-    --main-color: var(--colourone); 1
-    --main-secondary-color: var(--colourtwo); 2
-    --background-color: var(--colourfive); 5
+    --main-color: var(--colourone);
+    --main-secondary-color: var(--colourtwo);
+    --background-color: var(--colourfive);
     --background-dark-color: var(--colourfive);
     --background-light-color: var(--colourfive);
-    --item-selected-color: var(--colourfour); 4
-    --text-color: var(--colourthree); 3
+    --item-selected-color: var(--colourfour);
+    --text-color: var(--colourthree);
     --text-placeholder-color: var(--text-color);
     --text-error-color: var(--text-placeholder-color);
     --eta-best-color: var(--colourthree);
