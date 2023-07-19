@@ -16,7 +16,6 @@
     --item-selected-color: var(--colourfour);
     --text-color: var(--colourthree);
     --text-placeholder-color: var(--text-color);
-    --text-error-color: var(--text-placeholder-color);
     --eta-best-color: var(--colourseven);
     --eta-mid-color: var(--coloursix);
     --eta-worst-color: var(--colourone);
