@@ -1,0 +1,27 @@
+:root.cyberpunk {
+
+    --colourone: #ff2a6d;
+    --colourtwo: #05d9e8;
+    --colourthree: #d1f7ff;
+    --colourfour: #005678;
+    --colourfive: #01012b;
+    --coloursix: #d6ff2a;
+    
+    --main-color: var(--colourone); 1
+    --main-secondary-color: var(--colourtwo); 2
+    --background-color: var(--colourfive); 5
+    --background-dark-color: var(--colourfive);
+    --background-light-color: var(--colourfive);
+    --item-selected-color: var(--colourfour); 4
+    --text-color: var(--colourthree); 3
+    --text-placeholder-color: var(--text-color);
+    --text-error-color: var(--text-placeholder-color);
+    --eta-best-color: var(--colourthree);
+    --eta-mid-color: var(--coloursix);
+    --eta-worst-color: var(--colourone);
+    --text-light-highlight-color: var(--main-secondary-color);
+    --text-dark-highlight-color: var(--main-color);
+    --link-color: var(--main-secondary-color);
+    --link-hover-color: var(--colourfour);
+    --mod-color: var(--main-color);
+}
