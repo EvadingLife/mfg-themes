@@ -24,4 +24,5 @@
     --link-color: var(--main-secondary-color);
     --link-hover-color: var(--colourfour);
     --mod-color: var(--main-color);
+    --tooltip-background: var(--colourfour);
 }
