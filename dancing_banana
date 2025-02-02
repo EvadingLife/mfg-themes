@@ -1,0 +1,45 @@
+.text-text-light {
+    background-color: white;
+    color: var(--text-light-highlight-color);
+}
+
+body {
+    background-image: url('https://raw.githubusercontent.com/EvadingLife/mfg-themes/c6b5890110f964c598a539ca62f5c7183653c666/dancing_banana.gif');
+    line-height: inherit;
+}
+
+:root.banana .bg-background {
+    background-image: url('https://raw.githubusercontent.com/EvadingLife/mfg-themes/c6b5890110f964c598a539ca62f5c7183653c666/dancing_banana.gif');
+}
+
+:root.banana {
+    --main-color: #151d28;
+    --main-secondary-color: #090a14;
+    --background-color: #ebede9;
+    --background-dark-color: #a8b5b2;
+    --background-light-color: #c7cfcc;
+    --placeholder-color: #752438;
+    --item-selected-color: #819796;
+    --text-font-size: 16px;
+    --text-color: #10141f;
+    --text-light-highlight-color: var(--main-secondary-color);
+    --text-dark-highlight-color: #411d31;
+    --button-color: var(--main-secondary-color);
+    --button-hover-color: var(--background-color);
+    --button-hover-background-color: var(--button-color);
+    --you-color: var(--background-dark-color);
+    --you-background-color: var(--text-dark-highlight-color);
+    --promoted-color: var(--text-light-highlight-color);
+    --promoted-background-color: var(--background-dark-color);
+    --eta-best: #75a743;
+    --eta-mid: #253a5e;
+    --eta-worst: #a53030;
+    --header-color: var(--main-color);
+    --header-font-size: 14px;
+    --navbar-color: var(--background-dark-color);
+    --offcanvas-background-color: var(--background-light-color);
+    --link-hover-color: #3c5e8b;
+    --link-color: #4f8fba;
+    --tooltip-background: #3c5e8b;
+    --tooltip-text: #e7d5b3;
+}
