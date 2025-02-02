@@ -3,9 +3,12 @@
     color: var(--text-light-highlight-color);
 }
 
-:root.banana .body {
+:root.banana .text, .text-text {
+    background-color: #ebede9b5;
+}
+
+:root.banana body {
     background-image: url('https://raw.githubusercontent.com/EvadingLife/mfg-themes/c6b5890110f964c598a539ca62f5c7183653c666/dancing_banana.gif');
-    line-height: inherit;
 }
 
 :root.banana {
