@@ -1,9 +1,9 @@
-.text-text-light {
+:root.banana .text-text-light {
     background-color: white;
     color: var(--text-light-highlight-color);
 }
 
-body {
+:root.banana .body {
     background-image: url('https://raw.githubusercontent.com/EvadingLife/mfg-themes/c6b5890110f964c598a539ca62f5c7183653c666/dancing_banana.gif');
     line-height: inherit;
 }
