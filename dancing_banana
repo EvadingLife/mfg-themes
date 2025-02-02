@@ -8,14 +8,10 @@ body {
     line-height: inherit;
 }
 
-:root.banana .bg-background {
-    background-image: url('https://raw.githubusercontent.com/EvadingLife/mfg-themes/c6b5890110f964c598a539ca62f5c7183653c666/dancing_banana.gif');
-}
-
 :root.banana {
     --main-color: #151d28;
     --main-secondary-color: #090a14;
-    --background-color: #ebede9;
+    --background-color: #ebede9b5;
     --background-dark-color: #a8b5b2;
     --background-light-color: #c7cfcc;
     --placeholder-color: #752438;
